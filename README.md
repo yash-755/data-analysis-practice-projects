@@ -39,16 +39,31 @@ Each project reflects a step forward in strengthening my analytical and problem-
 
 ---
 
+
 ## 📁 Project Structure
 
 Projects in this repository follow a consistent and organized layout:
 
-
-
-
-
-
-
+```bash
+data-analysis-projects/
+│
+├── project-1/
+│   ├── data/                # Raw & processed datasets
+│   ├── notebooks/           # Jupyter notebooks (EDA, analysis)
+│   ├── src/                 # Python scripts (cleaning, utilities)
+│   ├── visuals/             # Charts and outputs
+│   └── README.md            # Project-specific details
+│
+├── project-2/
+│   ├── data/
+│   ├── notebooks/
+│   ├── src/
+│   ├── visuals/
+│   └── README.md
+│
+├── requirements.txt         # Dependencies (optional)
+└── README.md                # Main repository documentation
+```
 
 ### 📌 Notes
 
@@ -58,6 +73,7 @@ Projects in this repository follow a consistent and organized layout:
 - `visuals/` stores charts for better presentation  
 
 ---
+
 
 ## 📌 Projects
 
