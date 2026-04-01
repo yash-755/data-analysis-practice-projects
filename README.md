@@ -41,7 +41,7 @@ Each project reflects a step forward in strengthening my analytical and problem-
 
 ## 📁 Project Structure
 
-Each project is organized as follows:
+Projects in this repository follow a consistent and organized layout:
 
 
 
@@ -50,6 +50,12 @@ Each project is organized as follows:
 
 
 
+### 📌 Notes
+
+- Each project is self-contained and independently structured  
+- Notebooks are used for exploration and analysis  
+- `src/` contains reusable Python code  
+- `visuals/` stores charts for better presentation  
 
 ---
 
