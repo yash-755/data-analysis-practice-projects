@@ -1,4 +1,4 @@
-📊 Data Analysis Projects
+##📊 Data Analysis Projects
 
 A curated collection of data analysis projects demonstrating problem-solving, data handling, and insight generation using real-world datasets.
 
