@@ -97,6 +97,7 @@ data-analysis-projects/
 
 ## 🎯 Goal
 
+
 To build a strong foundation in data analysis and apply these skills to real-world scenarios and impactful projects.
 
 ---
