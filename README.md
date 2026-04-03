@@ -1,4 +1,4 @@
-# 📊 Data Analysis Projects
+#📊 Data Analysis Projects
 
 <p align="center">
   <b>Exploring data, uncovering insights, and building analytical thinking</b>
